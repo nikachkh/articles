@@ -1,0 +1,31 @@
+a{
+ text-decoration: none;
+
+}
+
+.wrapper{
+
+
+}
+.container{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+}
+.chamonatvali ul li{
+    list-style: none;
+
+}
+.chamonatvali {
+    color: brown;
+
+}
+.wrapper2{
+    display: flex;
+    padding-left: 50px;
+
+}
+.content-text{
+    background-color: black;
+    color: #fff;
+}
